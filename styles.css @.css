@@ -1,0 +1,150 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('galaxy-background.jpg'); /* Use your galaxy image here */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    color: white; /* Change text color to white for better contrast */
+    max-width: 1200px; /* Set a maximum width for the content */
+    margin: auto; /* Center the content */
+}
+
+header {
+    display: flex;
+    justify-content: space-between; /* Space between elements */
+    align-items: center; /* Center items vertically */
+    padding ```css
+    : 20px; /* Add padding */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items inline */
+    margin-right: 20px; /* Space between items */
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('galaxy-background.jpg'); /* Use your galaxy image here */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    color: white; /* Change text color to white for better contrast */
+    max-width: 1200px; /* Set a maximum width for the content */
+    margin: auto; /* Center the content */
+}
+
+header {
+    display: flex;
+    justify-content: space-between; /* Space between elements */
+    align-items: center; /* Center items vertically */
+    padding: 20px; /* Add padding */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items inline */
+    margin-right: 20px; /* Space between items */
+}
+
+main {
+    padding: 20px; /* Add padding to main content */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+h1, h2, h3, h4 {
+    color: #FFD700; /* Gold color for headings */
+}
+
+textarea {
+    width: 100%; /* Make textarea full width */
+    height: 100px; /* Set height */
+    margin-top: 10px; /* Space above textarea */
+}
+
+button {
+    background-color: #28a745; /* Green background */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 10px 15px; /* Add padding */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+footer {
+    text-align: center; /* Center footer text */
+    padding: 10px; /* Add padding */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+}
+main {
+    padding: 20px; /* Add padding to main content */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+h1, h2, h3, h4 {
+    color: #FFD700; /* Gold color for headings */
+}
+
+textarea {
+    width: 100%; /* Make textarea full width */
+    height: 100px; /* Set height */
+    margin-top: 10px; /* Space above textarea */
+}
+
+button {
+    background-color: #28a745; /* Green background */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 10px 15px; /* Add padding */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+footer {
+    text-align: center; /* Center footer text */
+    padding: 10px; /* Add padding */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+}body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('galaxy-background.jpg'); /* Use your galaxy image here */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    color: white; /* Change text color to white for better contrast */
+    max-width: 1200px; /* Set a maximum width for the content */
+    margin: auto; /* Center the content */
+}
+
+header {
+    display: flex;
+    justify-content: space-between; /* Space between elements */
+    align-items: center; /* Center items vertically */
+    padding: 20px; /* Add padding */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+}
